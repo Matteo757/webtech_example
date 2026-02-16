@@ -3,6 +3,7 @@ les2 practise example
 
 ## deelnemerslijst
 - Martijn Leemans
+- Arne Cannaerts
 - Dries Willekens
 - Lennart Verjans
 - Joppe Colla
